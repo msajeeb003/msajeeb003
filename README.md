@@ -10,7 +10,7 @@
 |---|---|---|---|
 | **SignPro** | Legally binding e-signatures: upload a PDF or Word document, request signatures by email or SMS, and every signing is sealed with an evidence hash. | React, Node.js, Express, PostgreSQL, Twilio | [Live demo](https://sign-pro-zeta.vercel.app) · [Code](https://github.com/msajeeb003/SignPro) · [Case study](https://www.mostafizur.me/projects/signpro) |
 | **SociPRO** | Autonomous social media agent: finds trending topics, writes posts with Google Gemini, renders video with FFmpeg and schedules publishing. | Node.js, Express, Google Gemini, Supabase, FFmpeg | [Live demo](https://soci-pro.vercel.app) · [Code](https://github.com/msajeeb003/SociPRO) · [Case study](https://www.mostafizur.me/projects/socipro) |
-| **EurekaEDU** | Scholarship finder for international students: filter by country, level, funding and IELTS score, compare programs, practise IELTS with AI feedback and follow visa guidance. | Next.js, Vercel | [Live app](https://eureka-edu-gules.vercel.app) · [Case study](https://www.mostafizur.me/projects/eurekaedu) |
+| **EurekaEDU** | Scholarship platform for international students: an n8n and Gemini pipeline collects the listings; students filter, compare, practise IELTS with AI feedback and follow visa guidance. | Next.js, TypeScript, Supabase, n8n, Google Gemini | [Live app](https://eureka-edu-gules.vercel.app) · [Case study](https://www.mostafizur.me/projects/eurekaedu) |
 | **mostafizur.me** | My portfolio: a fast static site with structured data for search engines and AI assistants. | HTML, CSS, JavaScript, Vercel | [Site](https://www.mostafizur.me) · [Code](https://github.com/msajeeb003/new-landing-page) |
 
 ### What I work on
